@@ -14,10 +14,15 @@ Além de de realizar o desafio proposto, o trainee deverá colocar os 5 desafios
 ## Links Importantes
 
 - Link do FreeCodeCamp:
+
     https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
+    
 - Link do repositório com todos os comandos de git e github:
+
     https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
 - Link do w3school:
+
     https://www.w3schools.com/js/default.asp
 
 ## Entrega
