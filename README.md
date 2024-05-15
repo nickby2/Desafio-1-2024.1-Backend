@@ -8,7 +8,8 @@ Este desafio tem como objetivo resolver a última seção “JavaScript Algorith
 Caso surjam dúvidas, você pode utilizar o canal da capacitação no slack, contatar algum membro ou conversar com seu squad.
 
 Você deve realizar um fork deste repositório para sua conta pessoal no GitHub. A entrega só será considerada válida se estiver incluída em uma release no GitHub. Se o candidato não souber como realizar um Fork, Commit, Push e uma Release no GitHub, deverá pesquisar ou pedir ajuda. O desafio também avaliará sua independência.
-Além de de realizar o desafio proposto, o trainee deverá colocar os 5 desafios solucionados no repositório do github que o trainee realizou o fork. Caso o trainee envio o projeto sem as devidas soluções, a entrega será desconsiderada.
+
+Além de de realizar o desafio proposto, o trainee deverá colocar os 5 desafios solucionados no repositório do github que o trainee realizou o fork. Caso o trainee envie o projeto sem as devidas soluções, a entrega será desconsiderada.
 
 ## Links Importantes
 
