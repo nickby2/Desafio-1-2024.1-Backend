@@ -29,4 +29,4 @@ Além de de realizar o desafio proposto, o trainee deverá colocar os 5 desafios
 
 - A entrega do desafio deve ser realizada através de uma Release no GitHub.
   - Crie a release no seu repositório pessoal e envie o zip pelo google classroom.
-- O candidato não deve excluir o repositório e nem a release após a entrega, pois a utilização do GitHub será avaliada.
+- O candidato não deve excluir o repositório e nem a release após a entrega, pois a utilização do GitHub será avaliada.# nickby2-Desafio-1-2024.2
